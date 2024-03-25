@@ -1,0 +1,97 @@
+* {
+  color: #025971;
+}
+
+body {
+  background-color: #D1EBF9;
+}
+
+h1 {
+  padding: 2% 0 2% 0;
+}
+
+h2 {
+  margin: 4% 0 4% 0;
+  text-align: center;
+}
+
+h5 {
+  text-align: center;
+}
+
+span {
+  font-weight: 500;
+}
+
+.lead {
+  padding: 2% 0 2% 0;
+}
+
+.navbar-inner {
+  background: transparent;
+}
+
+.main-content {
+  text-align: center;
+  padding: 4% 0 5% 0;
+}
+
+.feature-config {
+  margin: auto;
+  text-align: center;
+  font-size: medium;
+}
+
+.navbar {
+  margin: 5% 10% 0 10%;
+  ;
+}
+
+.navbar-brand {
+  color: #025971 !important;
+}
+
+.nav-link {
+  color: #025971 !important;
+}
+
+.nav-link:hover {
+  color: #739CA9 !important;
+}
+
+.about-us {
+  text-align: center;
+}
+
+.contact-us {
+  text-align: center;
+}
+
+.footer-icons {
+  font-size: 30px;
+}
+
+.pricing-table {
+  max-width: 600px;
+  margin: 20px auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
